@@ -1,0 +1,35 @@
+body{
+    background: url("../image/pexels-photo%20(1).jpg") no-repeat center center fixed;
+    background-size: cover;
+        font-family: 'Montserrat', sans-serif;
+
+    
+}
+div{
+    
+    width: 60%;
+    margin: 300px auto;
+    text-align: center;
+    border-radius: 20px;
+    background-color: green;
+    opacity: 0.5;
+    
+}
+
+button{
+    background: aqua;
+    padding: 0 10px 0 10px;
+    color:black;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 4em;
+    
+
+}
+p{
+
+font-size: 1.8em;
+}
