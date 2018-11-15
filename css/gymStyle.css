@@ -33,3 +33,20 @@ p{
 
 font-size: 1.8em;
 }
+
+
+
+@media (min-width:320px) and (max-width:480px){
+    
+    body{
+    background: url("../image/pexels-photo%20(1).jpg") no-repeat center center fixed;
+    background-size: cover;
+        font-family: 'Montserrat', sans-serif;
+        width: 100%;
+        height: auto;
+
+    
+}
+    
+    
+}
